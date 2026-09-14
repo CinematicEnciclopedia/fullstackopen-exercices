@@ -3,9 +3,9 @@
 Repositori d'entrega d'exercicis del curs [Full Stack Open](https://fullstackopen.com) (Universitat de Hèlsinki).
 
 - Usuari del curs: Dani (CinematicEnciclopedia).
-- Estat: **Part 0, Part 1 i Part 2 fetes** (0.1–0.6, 1.1–1.14, 2.1–2.20).
+- Estat: **Parts 0–6 fetes**.
 
-## Estructura
+## Estructura (Parts 0–2 en aquest repo)
 
 ```text
 part0/
@@ -23,6 +23,15 @@ part2/
   phonebook    (2.6–2.17: formulari, filtre, axios + json-server, CRUD)
   countries    (2.18–2.20: API restcountries + meteorologia)
 ```
+
+## Repositoris de les parts 3–6
+
+| Part | Exercicis | Repositori |
+|---|---|---|
+| 3 | 3.1–3.22 (phonebook: backend + Mongo + Render) | [fullstackopen-phonebook](https://github.com/CinematicEnciclopedia/fullstackopen-phonebook) |
+| 4 | 4.1–4.23 (bloglist: backend amb tests) | [fullstackopen-bloglist](https://github.com/CinematicEnciclopedia/fullstackopen-bloglist) |
+| 5 | 5.1–5.31 (bloglist: frontend + E2E) | [fullstackopen-bloglist-frontend](https://github.com/CinematicEnciclopedia/fullstackopen-bloglist-frontend) |
+| 6 | 6.1–6.22 (state management: Zustand, TanStack Query, Context API) | [fullstackopen-part6](https://github.com/CinematicEnciclopedia/fullstackopen-part6) |
 
 ## Convencions
 
