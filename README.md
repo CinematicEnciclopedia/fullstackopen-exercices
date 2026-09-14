@@ -24,7 +24,9 @@ part2/
   countries    (2.18–2.20: API restcountries + meteorologia)
 ```
 
-## Repositoris de les parts 3–6
+## Parts 3–6: repositoris dedicats
+
+Les parts 3–6 viuen en repositoris propis (el codi d'aquest repo cobreix només les parts 0–2). A la vista de fitxers hi ha els directoris `part3/`…`part6/` com a **enllaços de navegació** cap a cada repo.
 
 | Part | Exercicis | Repositori |
 |---|---|---|
