@@ -3,7 +3,7 @@
 Repositori d'entrega d'exercicis del curs [Full Stack Open](https://fullstackopen.com) (Universitat de Hèlsinki).
 
 - Usuari del curs: Dani (CinematicEnciclopedia).
-- Estat: **Parts 0–6 fetes**.
+- Estat: **Parts 0–7 fetes**.
 
 ## Estructura (Parts 0–2 en aquest repo)
 
@@ -24,9 +24,9 @@ part2/
   countries    (2.18–2.20: API restcountries + meteorologia)
 ```
 
-## Parts 3–6: repositoris dedicats
+## Parts 3–7: repositoris dedicats
 
-Les parts 3–6 viuen en repositoris propis (el codi d'aquest repo cobreix només les parts 0–2). A la vista de fitxers hi ha els directoris `part3/`…`part6/` com a **enllaços de navegació** cap a cada repo.
+Les parts 3–7 viuen en repositoris propis (el codi d'aquest repo cobreix només les parts 0–2). A la vista de fitxers hi ha els directoris `part3/`…`part7/` com a **enllaços de navegació** cap a cada repo.
 
 | Part | Exercicis | Repositori |
 |---|---|---|
@@ -34,6 +34,7 @@ Les parts 3–6 viuen en repositoris propis (el codi d'aquest repo cobreix nomé
 | 4 | 4.1–4.23 (bloglist: backend amb tests) | [fullstackopen-bloglist](https://github.com/CinematicEnciclopedia/fullstackopen-bloglist) |
 | 5 | 5.1–5.31 (bloglist: frontend + E2E) | [fullstackopen-bloglist-frontend](https://github.com/CinematicEnciclopedia/fullstackopen-bloglist-frontend) |
 | 6 | 6.1–6.22 (state management: Zustand, TanStack Query, Context API) | [fullstackopen-part6](https://github.com/CinematicEnciclopedia/fullstackopen-part6) |
+| 7 | 7.1–7.20 (React Router, hooks, error boundaries, bloglist + state management) | [fullstackopen-part7](https://github.com/CinematicEnciclopedia/fullstackopen-part7) |
 
 ## Convencions
 
